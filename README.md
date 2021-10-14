@@ -1,5 +1,9 @@
-# COVID-PREDICTIVE-ANALYSIS-INDIA
-We will use a data set on COVID-19 to understand how the disease has spread to various states in India. 
+# COVID-PREDICTIVE-ANALYSIS-INDIA BY TEAM COU_TER TRON
+BY PRASANNA SAI KURITI-RA1911026010068
+   SAI TARUN BODA     -RA1911026010079
+   NAVEED AHMED SHAIK -RA1911026010083
+   AKSHAT SINGAMSETTY -RA1911026010098
+
 
 The main theme of this project was to analyze the data on COVID-19 spread in INDIA. Here we have taken a dataset on COVID spread in India and we have performed data manipulation and visualization operations on the data set. We have created a predictive model using linear regression and tested its accuracy on predicting the number of new covid cases popping up daily.
 
