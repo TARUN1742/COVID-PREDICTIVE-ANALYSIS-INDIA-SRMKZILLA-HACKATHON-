@@ -7,7 +7,7 @@ BY PRASANNA SAI KURITI-RA1911026010068
 
 The main theme of this project was to analyze the data on COVID-19 spread in INDIA. Here we have taken a dataset on COVID spread in India and we have performed data manipulation and visualization operations on the data set. We have created a predictive model using linear regression and tested its accuracy on predicting the number of new covid cases popping up daily.
 
-Steps Involved:
+Steps Involved:-
 1.	Importing the required packages into our python environment
 2.	Importing the house price data and do some EDA on it
 3.	Data Visualization on the spread of the disease
