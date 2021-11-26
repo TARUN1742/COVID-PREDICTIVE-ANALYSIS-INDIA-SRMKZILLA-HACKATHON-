@@ -3,6 +3,7 @@ BY PRASANNA SAI KURITI-RA1911026010068
    SAI TARUN BODA     -RA1911026010079
    NAVEED AHMED SHAIK -RA1911026010083
    AKSHAT SINGAMSETTY -RA1911026010098
+   
 
 
 The main theme of this project was to analyze the data on COVID-19 spread in INDIA. Here we have taken a dataset on COVID spread in India and we have performed data manipulation and visualization operations on the data set. We have created a predictive model using linear regression and tested its accuracy on predicting the number of new covid cases popping up daily.
@@ -22,7 +23,7 @@ The primary packages for this project are going to be pandas for data processing
 We are going to work with the house price dataset that contains various features and information about the spread of the disease. Using the ‘read_csv’ function provided by the Pandas package, we can import the data into our python environment. After importing the data, we can use the ‘head’ function to get a glimpse of our dataset.
 
 IMPORTING DATA & EDA:
-We begin our EDA process by removing all the null values that contain in our dataset. We can do this in python using the ‘dropna’ function.
+We are going to begin our EDA process by removing all the null values that contain in our dataset. We can do this in python using the ‘dropna’ function.
 Then, using the ‘describe’ function we can get a statistical view of the data like mean, median, standard deviation, and so on.
 Our final step in the EDA process is to check the data types of the variables that are present in our variables. In case if there is any float or object type variable, we have to convert them into integer type. We can have a look at the data types of the variables present in our dataset using the ‘dtypes’ function in python.We can notice that the variable ‘MasVnrArea’ is in the form of a float data type. It is essential to change float types to integer types because linear regression is supported only on integer type variables. It can be converted using the ‘astype’ function in python.
 We can notice that the variable 'total_conf_cases', 'cured' is in the form of a float data type. It is essential to change float types to integer types because linear regression is supported only on integer type variables. It can be converted using the ‘astype’ function in python.
