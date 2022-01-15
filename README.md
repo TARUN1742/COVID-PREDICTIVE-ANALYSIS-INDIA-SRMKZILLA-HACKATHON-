@@ -55,4 +55,4 @@ We can see that, every model while rounding the output values will result in a s
 R-SQUARED
 When analyzing the report, it is noted that the R-squared of the Lasso regression model is seemed to be the highest which means, it takes the place of being the most suitable model for our dataset (on the basis of R-squared). It is followed by the Elastic Net regression model. The worst performer among the models is again the Bayesian regression model so, it is more ideal to neglect the Bayesian regression model for our dataset.
 
-THANK YOU!
+THANK YOU Have a nice day
